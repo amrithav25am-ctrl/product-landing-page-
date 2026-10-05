@@ -1,0 +1,6 @@
+{
+  "name": "Kanso Dial — Tactile Focus Console",
+  "description": "A conversion-focused landing page for Kanso Dial, a precision desktop focus console engineered with dual rotary dials and glare-free e-paper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
